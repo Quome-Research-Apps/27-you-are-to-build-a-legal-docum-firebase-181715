@@ -1,0 +1,1 @@
+{"name": "27-you-are-to-build-a-legal-docum-firebase-181715", "spec": {"port": 8000, "containers": [{"image": "", "name": "27-you-are-to-build-a-legal-docum-firebase-181715", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
